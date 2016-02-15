@@ -1,0 +1,81 @@
+.background{
+	width:100%;
+}
+.imagen{
+	width: 100%;
+	position: absolute;
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+	font-size: 20px;
+	padding:10px 0px 10px 200px;
+}
+.logo{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	margin:50px 350px 50px 350px;
+}
+.nombre{
+	color:white;
+	font-size: 30px;
+	margin:280px 200px 60px 180px ;
+}
+.lema{
+	color:white;
+	text-align: center;
+	margin:-50px 280px;
+}
+.foto{
+	width: 200px;
+	height: 200px;
+	margin-top: -250px;
+	position: absolute;
+	border:black 1px solid;
+}
+h3{
+	text-align: center;
+	margin:300px;
+	color:#DF01D7;
+	font-size: 30px;
+}
+.contenido{
+	margin:-230px 0px;
+	font-size: 14px;
+	font-family: arial;
+}
+h2{
+	text-align: center;
+	margin:50px;
+	color:#DF01D7;
+	font-size: 30px;
+}
+h4{
+	text-align: center;
+	margin:5px;
+	color:#DF01D7;
+	font-size: 20px;
+}
+hr{
+	width: 1px;
+	height: 15px;
+	border:solid 1px #DF01D7;
+	display: inline-block;
+}
+.circulo{
+	border-radius: 50% 50%;
+	width: 200px;
+	padding: 10px;
+	border:black 1px solid;
+	margin:20px 20px;
+	position: relative;
+}
+footer{
+	background: #BDBDBD;
+	border:#BDBDBD 1px solid;
+	padding:50px 200px;
+}
+.linked{
+	margin:0px 100px;
+}
